@@ -1,0 +1,1 @@
+add_custom_target(benchmarks COMMENT "Benchmarking suite (Phase 3+)")
